@@ -176,6 +176,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Rows](https://rows.com/) - The spreadsheet where teams work faster.
 - [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
 - [Teable](https://teable.ai/) - The next gen Airtable alternative with no-code postgres.
+- [DocQuery](https://docquery.io/) - Turn spreadsheets and PDFs into a relational REST API and MCP server for AI assistants.
 
 ## Chatbots
 
